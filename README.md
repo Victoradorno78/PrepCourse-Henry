@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Repositorio para el trabajo de Henry 
+Victor Adorno, este proyecto es una prueba para crear un repositorio
